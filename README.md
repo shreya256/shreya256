@@ -2,3 +2,8 @@
 
 
 I am Shreya Jangam 😃. I am from Pune and currently pursuing my B.E. 🏫. I love to explore and learn about new things!
+
+
+Feel free to connect with me😄
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-jangam-3582a221b/)
